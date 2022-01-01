@@ -55,7 +55,7 @@ const Home = () => {
       <>
          <Box textAlign="center" className={classes.headingColor} p={3}>
             <Typography>
-               CRUD
+               CRUD+API
             </Typography>
          </Box>
 
